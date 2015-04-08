@@ -85,6 +85,7 @@ velocity organizations, born from the experiences of its practitioners.
 * [Soo Choi](https://github.com/soosiechoi)
 * [Seth Falcon](https://github.com/seth)
 * [JJ Asghar](https://github.com/jjasghar)
+* [Josh Brand](https://github.com/joshbrand)
 
 ## License
 
